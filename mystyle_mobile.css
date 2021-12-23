@@ -203,8 +203,8 @@ html {font-size: 16px;}
 
 #recipebox { width: 90%; 
     display: block;
-    background-color: black;
-    opacity: 30%;
+    background-color: rgba( 0, 0, 0, 0.5 );
+    
     margin: none;
     margin-top: 40%;
     padding-bottom: 30%;
